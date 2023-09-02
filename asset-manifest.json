@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/share-money/static/css/main.5405a333.css",
+    "main.js": "/share-money/static/js/main.2d476891.js",
+    "index.html": "/share-money/index.html",
+    "main.5405a333.css.map": "/share-money/static/css/main.5405a333.css.map",
+    "main.2d476891.js.map": "/share-money/static/js/main.2d476891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5405a333.css",
+    "static/js/main.2d476891.js"
+  ]
+}
